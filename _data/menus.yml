@@ -1,21 +1,29 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Perkhidmatan"
+    url: "/perkhidmatan/"
     weight: 2
-  - name: "Team"
+
+  - name: "Pos Blog"
     url: "/team/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+
+  - name: "Tentang Kami"
+    url: "/tentang_kami/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
+
+  - name: "Hubungi"
+    url: "/hubungi/"
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Utama"
     url: "/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
+
+  - name: "Hubungi"
+    url: "/hubungi/"
     weight: 2
+
+  - name: "Hakcipta Terpelihara"
+    url: "/hakcipta/"
+    weight: 3

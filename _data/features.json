@@ -1,6 +1,6 @@
 [
   {
-    "title": "Free Consultation",
+    "title": "Badal Haji",
     "description": "New clients receive an obligation free consultation.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
@@ -9,7 +9,7 @@
     }
   },
   {
-    "title": "Certified Accountants",
+    "title": "Agen Umrah dan Haji",
     "description": "All members of our team are certified accountants.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
@@ -18,7 +18,16 @@
     }
   },
   {
-    "title": "Tax Compliance",
+    "title": "Program Ihya' Ramadan",
+    "description": "We stay up to date on the latest changes to the tax code.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Korban, Aqiqah, Waqaf, Fidyah & Dam",
     "description": "We stay up to date on the latest changes to the tax code.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
