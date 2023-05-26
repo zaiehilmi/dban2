@@ -1,0 +1,8 @@
+whatsapp svg =
+<a target="_blank" href="https://icons8.com/icon/16733/whatsapp">WhatsApp</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+facebook svg =
+<a target="_blank" href="https://icons8.com/icon/8818/facebook">Facebook</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+sammy by icons8 (orang bertudung) =
+Illustration by <a href="https://icons8.com/illustrations/author/zD2oqC8lLBBA">Icons 8</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
