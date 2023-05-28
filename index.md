@@ -1,7 +1,7 @@
 ---
 title: Dban2 Enterprise
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: kami membantu anda melaksanakan ibadah seperti korban, melaksanakan umrah dan haji, dan banyak lagi
 intro_image: "images/illustrations/orang-solat.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
