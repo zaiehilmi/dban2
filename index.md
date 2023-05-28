@@ -10,4 +10,4 @@ show_call_box: true
 
 # Kami memudahkan anda beribadah
 
-Kami menyediakan kemudahan terbaik dan pelbagai bagi anda dalam melaksanakan ibadah dengan mudah dan lancar.
+Kami menyediakan kemudahan terbaik dan pelbagai bagi anda untuk melaksanakan ibadah dengan mudah dan lancar.
