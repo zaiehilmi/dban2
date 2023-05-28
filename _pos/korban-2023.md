@@ -4,9 +4,9 @@ date: 2023-05-25 21:28:00 +0800
 categories: paparan baharu
 ---
 
-## Penyertaan Korban, Aqiqah & Dam di **Makkah** dan **Kemboja** 2023 kini dibuka!!
-Korban Penghapus DOSA, PENYUCIAN JIWA
-Aqiqah tanda Syukur atas Anugerah CAHAYA MATA.
+## KINI DIBUKA! Penyertaan Korban, Aqiqah & Dam di **Makkah** dan **Kemboja** 2023
+Korban Penghapus dosa, penyucian jiwa
+Aqiqah tanda syukur atas anugerah cahaya mata.
 
 | Lokasi      | Korban | Aqiqah | Dam | Wakaf |
 |-------------|:------:|:------:|:---:|:-----:|
@@ -34,16 +34,16 @@ Aqiqah tanda Syukur atas Anugerah CAHAYA MATA.
 |                      | 1 bahagian unta 🐪  |    650     |
 | **Aqiqah &  Korban** | 1 ekor kambing 🐐   |    550     |
 
-### Cara Penyertaan
-<mark>Bank In</mark> atau <mark>transfer</mark> terus BAYARAN berkenaan ke akaun   
+## Cara Penyertaan
+**Bank In** atau **transfer** bayaran berkenaan ke akaun   
 ---  
 **BANK ISLAM**  
 DBAN TWO ENTERPRISES  
 `01087010071846`  
 ---
 
-#### Serahkan maklumat berikut kepada kami di WhatsApp
-**sertakan sekali resit pembayaran**    
-<a class="button button-primary" href="https://wa.link/qpiqnf" target="_blank" >WhatsApp bukti pembayaran</a>
+### Serahkan maklumat berikut kepada kami di WhatsApp
+<a class="button button-primary" href="https://wa.link/qpiqnf" target="_blank" >WhatsApp bukti pembayaran</a> 
+*sertakan sekali resit pembayaran*  
 
 Bukti bergambar atau VIDEO boleh di lihat melalui kiriman di [Facebook Ana Rie](https://www.facebook.com/ana.rie.940)
