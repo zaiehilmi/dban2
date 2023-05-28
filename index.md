@@ -10,4 +10,4 @@ show_call_box: true
 
 # Kami memudahkan anda beribadah
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Kami menyediakan kemudahan terbaik dan pelbagai bagi anda dalam melaksanakan ibadah dengan mudah dan lancar.

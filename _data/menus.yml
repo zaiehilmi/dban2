@@ -1,14 +1,14 @@
 main:
-  - name: "Perkhidmatan"
-    url: "/perkhidmatan/"
+  - name: "Pos Blog"
+    url: "/pos/"
     weight: 2
 
-  - name: "Pos Blog"
-    url: "/team/"
+  - name: "Galeri"
+    url: "/galeri/"
     weight: 3
 
   - name: "Tentang Kami"
-    url: "/tentang_kami/"
+    url: "/tentang/"
     weight: 4
 
   - name: "Hubungi"

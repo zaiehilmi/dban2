@@ -24,15 +24,16 @@ bodyClass: "page-home"
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {% assign limit = site.home.limit_services | default: 6 %}
-      {% for service in site.services limit: limit %}
+      {% assign limit = site.home.limit_posts | default: 3 %}
+      {% assign sorted_posts = site.pos | sort: 'date' | reverse %}
+      {% for p in sorted_posts limit: limit %}
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">
           <div class="service-content">
             <h2 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+              <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
             </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+            <p>{{ p.content | markdownify | strip_html | truncate: 100 }}</p>
           </div>
         </div>
       </div>
@@ -40,7 +41,7 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">Lihat Semua Pos</a>
+        <a class="button button-primary" href="{{ site.data.menus.main[0].url | relative_url }}">Lihat Semua Pos</a>
       </div>
     </div>
   </div>

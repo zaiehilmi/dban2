@@ -11,26 +11,29 @@ logo:
   desktop_width: "120px"
 
 home:
-  limit_services: 3
+  limit_posts: 3
 
 collections:
-  services:
+  pos:
     output: true
-    sort_by: weight
   team:
     output: true
 
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "pos"
     values:
-      layout: "service"
+      layout: "post"
   - scope:
       path: ""
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: "images"
+    values:
+      image: true
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

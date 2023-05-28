@@ -1,0 +1,38 @@
+---
+layout: default
+bodyClass: "page-services"
+---
+
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        {{ content }}
+      </div>
+
+      {% if page.intro_image %}
+      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative mt-1" style="top: 4.2em" >
+        <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" style="max-width: 110%; height: auto;">
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<div class="container pt-6 pb-6">
+  <div class="row">
+    {% assign sorted_posts = site.pos | sort: 'date' | reverse %}
+    {% for p in sorted_posts %}
+    <div class="mb-3 pl-1 pr-1">
+      <div class="service service-summary">
+        <div class="service-content">
+          <h2 class="service-title">
+            <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+          </h2>
+          <p>{{ p.content | markdownify | strip_html | truncate: 200 }}</p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
