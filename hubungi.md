@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Hubungi Kami
 layout: contact
 description: Contact
 ---
