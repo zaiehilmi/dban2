@@ -28,6 +28,11 @@ bodyClass: "page-home"
       {% assign sorted_posts = site.pos | sort: 'date' | reverse %}
       {% for p in sorted_posts limit: limit %}
       <div class="col-12 col-md-4 mb-1">
+        {% for category in p.categories %}
+          {% if category == "baharu" %}
+            <p style="user-select: none; -webkit-user-select: none; margin-bottom: 1px">🎉  Baharu!</p>
+          {% endif %}
+        {% endfor %}
         <div class="service service-summary">
           <div class="service-content">
             <h2 class="service-title">

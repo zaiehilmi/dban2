@@ -5,7 +5,7 @@ categories: baharu
 ---
 
 ## KINI DIBUKA! Penyertaan Korban, Aqiqah & Dam di **Makkah** dan **Kemboja** 2023
-Korban Penghapus dosa, penyucian jiwa
+Korban Penghapus dosa, penyucian jiwa.
 Aqiqah tanda syukur atas anugerah cahaya mata.
 
 | Lokasi      | Korban | Aqiqah | Dam | Wakaf |
