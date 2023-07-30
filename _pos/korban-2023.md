@@ -1,7 +1,7 @@
 ---
 title: "Penyertaan Korban, Aqiqah & Dam 2023"
 date: 2023-05-25 21:28:00 +0800
-categories: baharu
+categories: 
 ---
 
 ## KINI DIBUKA! Penyertaan Korban, Aqiqah & Dam di **Makkah** dan **Kemboja** 2023
